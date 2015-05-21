@@ -1,5 +1,8 @@
 # This repository is deprecated
-## Chef Slack Handler have moved here : [rackspace-cookbooks/chef-slack_handler](github.com/rackspace-cookbooks/chef-slack_handler)
+
+## Chef Slack Handler has moved here : [rackspace-cookbooks/chef-slack_handler](github.com/rackspace-cookbooks/chef-slack_handler)
+
+We've not had time to maintain this outside of internal use. In the interest of community, we're turning this initial work over to the rackspace folks.
 
 Description
 ===========
